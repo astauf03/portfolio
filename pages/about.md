@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Alexandra Stauffer
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
