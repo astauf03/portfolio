@@ -3,9 +3,16 @@ layout: default
 ---
 
 <main>
+  {% if page.thumbnail %}
+    <div class="featured-image-container featured-image--floating">
+      <img src="{{ page.thumbnail }}" alt="{{ page.title }} preview">
+    </div>
+  {% endif %}
+
   <div class="post-container">
     <div class="project-load">{{ content }}</div>
   </div>
+
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
