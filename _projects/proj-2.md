@@ -1,6 +1,6 @@
 ---
 layout: post
-  title: 'Python Final Project: Passyunk Square Character Map (Philadelphia)'
+title: 'Python Final Project: Passyunk Square Character Map (Philadelphia)'
 thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
 ---
 
@@ -16,4 +16,4 @@ These components were normalized and combined into a composite Accessibility Sco
 
 While the project demonstrates multi-source spatial integration and index construction, the census-based demographic component is subject to limitations stemming from data harmonization and communication challenges during implementation. These constraints are documented and reflected on in the final site.
 
-**View composite project website** [Passyunk Square Neighborhood Accessibility Character Map](https://astauf03.github.io/musa5500-python-final/)
+**View composite project website**[Passyunk Square Neighborhood Accessibility Character Map](https://astauf03.github.io/musa5500-python-final/)
