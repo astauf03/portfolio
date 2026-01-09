@@ -16,4 +16,7 @@ These components were normalized and combined into a composite Accessibility Sco
 
 While the project demonstrates multi-source spatial integration and index construction, the census-based demographic component is subject to limitations stemming from data harmonization and communication challenges during implementation. These constraints are documented and reflected on in the final site.
 
-**View composite project website** [Passyunk Square Neighborhood Accessibility Character Map](https://astauf03.github.io/musa5500-python-final/)
+---
+Links:
+- **Github** [Project Repo](https://github.com/astauf03/musa5500-python-final)
+- **View composite project website** [Passyunk Square Neighborhood Accessibility Character Map](https://astauf03.github.io/musa5500-python-final/)
