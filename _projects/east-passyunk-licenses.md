@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'East Passyunk License Dashboard (Philadelphia)'
-thumbnail: /assets/img/projects/east-passyunk-licenses/memo2.jpg
+thumbnail: assets/img/projects/east-passyunk-licenses/memo2.jpg
 ---
 
 This project summarizes active business licenses and active PLCB liquor licenses within the East Passyunk study area to describe corridor-scale dining and nightlife activity.
