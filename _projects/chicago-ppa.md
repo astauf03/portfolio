@@ -22,6 +22,18 @@ This project evaluates whether 311 alley pothole complaints are predictive of bu
 - KDE baselines slightly outperformed regression models in raw predictive accuracy.
 - Spatial generalization was moderate, while temporal generalization was weaker.
 
+- ## Full Report
+
+➡️ [View Full HTML Report](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/)
+
+
+## Source Code
+
+- RMarkdown analysis file (`stauffer_alex.Rmd`)
+- Reproducible spatial modeling workflow
+
+➡️ [View source repository](https://github.com/astauf03/spatial-analysis-portfolio)
+
 
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
