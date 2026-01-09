@@ -27,7 +27,7 @@ This project evaluates whether 311 alley pothole complaints are predictive of bu
 
 ## Full Report
 
-[View Full HTML Report](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/)
+[View Full HTML Report](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
 
 
 ## Source Code
