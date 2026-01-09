@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python Final Project: Passyunk Square Character Map (Philadelphia)'
-thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
+thumbnail: assets/img/projects/python-final/thumbnail_python.png
 ---
 
 This project was developed as the final project for *MUSA: 5500: Geospatial Analytics* and focuses on building a **Neighborhood Accessibility Character Map** for Philadelphia, highlighting the Passyunk Square neighborhood. Working in a two-person team, we explored how accessibility varies at the neighborhood scale by integrating multiple spatial dimensions into a single analytical framework.
