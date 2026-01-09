@@ -5,7 +5,7 @@ layout: default
 <main>
   {% if page.thumbnail %}
     <div class="featured-image-container featured-image--floating">
-      <img src="{{ page.thumbnail }}" alt="{{ page.title }} preview">
+      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }} preview">
     </div>
   {% endif %}
 
