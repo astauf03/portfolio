@@ -1,9 +1,27 @@
 ---
 layout: post
 title: 'Chicago Burglary & Pothole Analysis (2017–2018)'
-thumbnail: /assets/img/projects/chicago-ppa/thumbnail_chicago.jpg
+thumbnail: assets/img/projects/chicago-ppa/thumbnail_chicago.png
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+This project evaluates whether 311 alley pothole complaints are predictive of burglary patterns in Chicago using spatial statistics and predictive modeling. The goal is to assess whether non-crime civic signals can meaningfully improve burglary risk prediction beyond baseline spatial methods.
+
+### Methods
+
+- 500m × 500m fishnet grid
+- Spatial joins and nearest-neighbor feature engineering
+- Local Moran’s I and LISA cluster analysis
+- Poisson and Negative Binomial regression
+- KDE baseline comparison
+- Leave-One-Grid-Out spatial cross-validation
+- Temporal validation using 2018 burglary outcomes
+
+### Key Findings
+
+- Pothole complaints showed weak independent predictive power after controlling for socioeconomic variables (very expected)
+- KDE baselines slightly outperformed regression models in raw predictive accuracy.
+- Spatial generalization was moderate, while temporal generalization was weaker.
+
+
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
