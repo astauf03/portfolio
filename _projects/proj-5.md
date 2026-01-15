@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Five'
+title: 'Landsat Data Discovery and Access with STAC'
 thumbnail: /assets/img/projects/proj-5/thumbnail.jpg
 ---
 

@@ -4,6 +4,11 @@ title: 'Philadelphia Housing Prediction Model Analysis'
 thumbnail: /assets/img/projects/ppa-midterm/thumbnail_midterm.jpg
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+# Goal: Improve efficiency of housing price predictions in Philadelphia
+
+- Filler content
+
+- Filler content
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+ picture picture 
