@@ -8,18 +8,18 @@ thumbnail: assets/img/projects/chicago-ppa/thumbnail_chicago.png
 
 ---
 
-## Overview
+**Overview**
 This project evaluates whether 311 alley pothole complaints can improve burglary prediction in Chicago beyond baseline spatial models, testing the usefulness of non-crime civic data in predictive policing contexts.
 
 ---
 
-## Key Outputs
+**Key Outputs**
 - **Full analytical report:** [Chicago Burglary & Pothole Analysis](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
 - **Code repository:** [GitHub repository](https://github.com/astauf03/spatial-analysis-portfolio)
 
 ---
 
-## Methods
+**Methods**
 
 - 500m × 500m fishnet grid
 - Spatial joins and nearest-neighbor feature engineering
@@ -31,20 +31,18 @@ This project evaluates whether 311 alley pothole complaints can improve burglary
 
 ---
 
-## Key Findings
-
+**Key Findings:**
 - Pothole complaints showed weak independent predictive power after controlling for socioeconomic variables (very expected)
 - KDE baselines slightly outperformed regression models in raw predictive accuracy.
 - Spatial generalization was moderate, while temporal generalization was weaker.
 
 ---
 
-## Visual Evidence 
+**Visual Evidence**
 ![Burglary and pothole density comparison](link)
 
 ---
 
-## Limitations
-- Pothole complaints may not capture all relevant civic signals.
+## Limitations: Pothole complaints may not capture all relevant civic signals.
 
 
