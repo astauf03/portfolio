@@ -12,26 +12,18 @@ Understanding where forecasts fail helps planners/operators prioritize rebalanci
 [View full report](https://astauf03.github.io/musa5080---lab5/lab5-again.html)
 
 ## Key Methods:
-- Temporal & spatial feature engineering
+- Temporal + spatial feature engineering
 - Five baseline predictive models (time-only, weather-only, lags, station FE, demographics)
 - Model comparison using MAE
-- Spatial error mapping & demographic context
+- Spatial error mapping + demographic context
 
-
-
----
+<img class ="portfolio-shot" src="/assets/img/projects/bike-share/best-model.png" alt="Model performance comparison">
 
 ## Key Findings: 
 - Seasonal differences across Q1–Q4 strongly influence model accuracy.
-
 - Temporal lag features produced the largest improvement (lowest MAE).
-
-{% include image.html image="projects/bike-share/best-model.png" %}
-
 - Errors cluster in university areas, tourist-heavy zones, and high-variability stations.
 
-{% include image.html image="projects/bike-share/spatial-error.png" %}
-
-- Engineering new features (rain lag, university distance, station clustering) paled in comparison to temporal lags.
+<img class ="portfolio-shot" src="/assets/img/projects/bike-share/spatial-error.png" alt="Spatial distribution of forecast errors">
 
 **Tools:** R, RMarkdown, ggplot2, sf, tidymodels
