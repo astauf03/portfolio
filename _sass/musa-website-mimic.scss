@@ -453,3 +453,15 @@ main {
   padding-top: 1rem;
 }
 
+.post-container img,
+.project-load img,
+.post-container figure,
+.project-load figure {
+  max-width: 100%;
+}
+
+.post-container img,
+.project-load img {
+  width: 100%;
+  height: auto;
+}
