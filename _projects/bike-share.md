@@ -9,7 +9,9 @@ This project forecasts hourly Indego bike-share demand across Philadelphia using
 
 Understanding where forecasts fail helps planners/operators prioritize rebalancing and station capacity.
 
-[View full report](https://astauf03.github.io/musa5080---lab5/lab5-again.html)
+![View full report](https://astauf03.github.io/musa5080---lab5/lab5-again.html)
+
+---
 
 **Key Methods**: 
 - Temporal + spatial feature engineering
@@ -17,7 +19,7 @@ Understanding where forecasts fail helps planners/operators prioritize rebalanci
 - Model comparison using MAE
 - Spatial error mapping + demographic context
 
-[Model performance comparison](/assets/img/projects/bike-share/best-model.png)
+![Model performance comparison](/assets/img/projects/bike-share/best-model.png)
 
 ---
 
