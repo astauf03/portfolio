@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Python Final Project: Passyunk Square Character Map (Philadelphia)'
-thumbnail: assets/img/projects/python-final/thumbnail_python.png
+title: '[Collaborative] Python Final Project: Passyunk Square Character Map (Philadelphia)'
+thumbnail: assets/img/projects/python-final/locator_passyunk_label_outside.png
 ---
 
 **Takeaway:** A composite accessibility index reveals clear neighborhood-level differences in mobility, amenities, environmental quality, and social context across Philadelphia despite this project's limitations with demographic data integration.

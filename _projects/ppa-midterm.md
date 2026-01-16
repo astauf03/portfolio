@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philadelphia Housing Prediction Model Analysis'
+title: '[Collaborative] Philadelphia Housing Prediction Model Analysis'
 thumbnail: /assets/img/projects/ppa-midterm/thumbnail_midterm.jpg
 ---
 
@@ -14,7 +14,6 @@ This project was completed as a team-based midterm for *MUSA 5080: Public Policy
 ---
 
 **Key Outputs**
-- **Technical Appendeix:** [Predicting Residential Property Prices](need link)
 - **Code repository:** [GitHub repository](https://github.com/jenniferluu6/MUSA5080-Assignment3)
 
 ---

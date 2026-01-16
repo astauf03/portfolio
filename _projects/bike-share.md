@@ -9,7 +9,7 @@ thumbnail: /assets/img/projects/bike-share/temporal.png
 ---
 
 **Overview**
-This project forecasts hourly Indego bike-share demand across Philadelphia using 2024 trip data, weather, temporal lag features, and neighborhood demographics, with a focus on understanding **where and why forecasts fail**.
+This project forecasts hourly Indego bike-share demand across Philadelphia using 2024 trip data, weather, temporal lag features, and neighborhood demographics, with a focus on understanding where and why forecasts fail.
 
 ---
 
@@ -36,8 +36,11 @@ This project forecasts hourly Indego bike-share demand across Philadelphia using
 
 **Visual Evidence**
 ![Model performance comparison]({{ "/assets/img/projects/bike-share/best-model.png" | relative_url }})
+According to the figure, the model incorporating temporal lag features outperforms others in terms of MAE across all quarters, despite best intentions to enhance the model with fixed effects and rush hour anticipation.
+
 ![Spatial error patterns]({{ "/assets/img/projects/bike-share/spatial-error.png" | relative_url }})
+Most of the spatial error clusters appear around university campuses (e.g., University of Pennsylvania, Temple University), tourist-heavy areas (e.g., Center City, Old City), and stations with high demand variability.
 
 ---
 
-## Tools: R, RMarkdown, ggplot2, sf, tidymodels
+## Tools: R, RMarkdown, ggplot2, sf
