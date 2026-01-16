@@ -4,11 +4,22 @@ title: 'Chicago Burglary & Pothole Analysis (2017–2018)'
 thumbnail: assets/img/projects/chicago-ppa/thumbnail_chicago.png
 ---
 
-This project evaluates whether 311 alley pothole complaints are predictive of burglary patterns in Chicago using spatial statistics and predictive modeling. The goal is to assess whether non-crime civic signals can meaningfully improve burglary risk prediction beyond baseline spatial methods.
+**Takeaway:** Non-crime civic signals (311 pothole complaints) add little predictive power to burglary risk once neighborhood context is considered.
 
 ---
 
-### Methods
+## Overview
+This project evaluates whether 311 alley pothole complaints can improve burglary prediction in Chicago beyond baseline spatial models, testing the usefulness of non-crime civic data in predictive policing contexts.
+
+---
+
+## Key Outputs
+- **Full analytical report:** [Chicago Burglary & Pothole Analysis](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
+- **Code repository:** [GitHub repository](https://github.com/astauf03/spatial-analysis-portfolio)
+
+---
+
+## Methods
 
 - 500m × 500m fishnet grid
 - Spatial joins and nearest-neighbor feature engineering
@@ -18,25 +29,22 @@ This project evaluates whether 311 alley pothole complaints are predictive of bu
 - Leave-One-Grid-Out spatial cross-validation
 - Temporal validation using 2018 burglary outcomes
 
-### Key Findings
+---
+
+## Key Findings
 
 - Pothole complaints showed weak independent predictive power after controlling for socioeconomic variables (very expected)
 - KDE baselines slightly outperformed regression models in raw predictive accuracy.
 - Spatial generalization was moderate, while temporal generalization was weaker.
 
+---
 
-## Full Report
+## Visual Evidence 
+![Burglary and pothole density comparison](link)
 
-[View Full HTML Report](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
+---
 
-
-## Source Code
-
-- RMarkdown analysis file (`stauffer_alex.Rmd`)
-- Reproducible spatial modeling workflow
-
-[View source repository](https://github.com/astauf03/spatial-analysis-portfolio)
+## Limitations
+- Pothole complaints may not capture all relevant civic signals.
 
 
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
