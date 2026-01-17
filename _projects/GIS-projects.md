@@ -11,6 +11,8 @@ This page presents selected GIS analyses completed in ArcGIS Pro, emphasizing ra
 - Analyze painting patterns and authors using the following tools: Contour, slope, aspect, hillshade, viewshed, and focal statistics.
 
 **Methods:**
+The table below summarizes the raster-based classification workflow used to distinguish texture, brushwork, and directional features across painting samples.
+
 | Classification Attribute | Step 1 / Metric                | Step 2 / Metric                          | Step 3 / Operation | Step 4 / Operation                          | Final Action |
 |--------------------------|--------------------------------|------------------------------------------|--------------------|----------------------------------------------|--------------|
 | Brush Direction          | Aspect                         | Focal Statistics (SD)                    | —                  | —                                            | —            |
@@ -20,4 +22,4 @@ This page presents selected GIS analyses completed in ArcGIS Pro, emphasizing ra
 
 
 **Visual Evidence:**
-![Painting Classification Statistics]({{ "/assets/img/projects/gis-projects/paintings-summary.png" | relative_url }})
+![Painting Classification Statistics]({{ "/assets/img/projects/GIS/paintings-summary.png" | relative_url }})
