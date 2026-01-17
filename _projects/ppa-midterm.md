@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Collaborative] Philadelphia Housing Prediction Model Analysis'
-thumbnail: /assets/img/projects/ppa-midterm/thumbnail_midterm.jpg
+thumbnail: assets/img/projects/ppa-midterm/housing-dist.png
 ---
 
 **Takeaway:** Incorporating neighborhood and structural context improves housing price predictions, but model performance varies spatially and exhibits diminishing returns with added complexity.

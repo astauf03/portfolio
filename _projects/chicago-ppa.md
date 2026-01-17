@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicago Burglary & Pothole Analysis (2017–2018)'
-thumbnail: assets/img/projects/chicago-ppa/thumbnail_chicago.png
+thumbnail: /assets/img/projects/chicago-ppa/temporal-error.png
 ---
 
 **Takeaway:** Non-crime civic signals (311 pothole complaints) add little predictive power to burglary risk once neighborhood context is considered.
