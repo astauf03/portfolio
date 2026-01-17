@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '[Upcoming Collaboration] MUSA Practicum: Understanding the Geography of Healthcare Access in South Africa (Spring 2026)'
-thumbnail: assets/img/projects/SA/SA_flag.png
 ---
 
 **Status:** *In progress (Spring 2026)*
