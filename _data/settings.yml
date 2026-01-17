@@ -14,8 +14,8 @@ intro_text: |
 # The link that is used for the resume button, below the intro text on the
 # portfolio home page. This link will also be used in the drop down menu. If
 # you don't want the resume link to show up, set the resume value to null.
-resume: 'null'
-resume_link_title: null
+#resume: 'images/Alexandra_Stauffer_Resume.pdf'
+#resume_link_title: null
 
 # The items that will show up in the drop down menu (in addition to the resume
 # link, if given).
