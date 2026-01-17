@@ -13,12 +13,12 @@ This page presents selected GIS analyses completed in ArcGIS Pro, emphasizing ra
 **Methods:**
 The table below summarizes the raster-based classification workflow used to distinguish texture, brushwork, and directional features across painting samples.
 
-| Classification Attribute | Step 1 / Metric                | Step 2 / Metric                          | Step 3 / Operation | Step 4 / Operation                          | Final Action |
-|--------------------------|--------------------------------|------------------------------------------|--------------------|----------------------------------------------|--------------|
-| Brush Direction          | Aspect                         | Focal Statistics (SD)                    | —                  | —                                            | —            |
-| Line Thickness           | Slope                          | Reclass via global slope mean            | Regroup            | —                                            | —            |
-| Texture Roughness        | Focal Statistics (Mean)        | —                                        | —                  | —                                            | —            |
-| Texture Type             | Smoothed raster (Focal Mean)   | Raster Calculator: (smooth − original)  | Focal Stats (SD)   | Raster Calc: (diff + focal SD) / 2           | Reclassify   |
+| Classification Attribute | Primary Raster Metric |
+|--------------------------|----------------------|
+| Brush Direction          | Aspect               |
+| Line Thickness           | Slope                |
+| Texture Roughness        | Focal Statistics (Mean) |
+| Texture Type             | Smoothed Raster (Focal Mean) |
 
 
 **Visual Evidence:**
