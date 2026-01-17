@@ -14,9 +14,9 @@ This project analyzes active business licenses and PLCB liquor licenses within t
 ---
 
 **Key Outputs**
-- 1-page memo (PDF): [memo2.pdf](/assets/img/projects/east-passyunk-licenses/memo2.pdf)
-- ArcGIS Online dashboard: [View dashboard](https://upenn.maps.arcgis.com/apps/dashboards/cbd683681e3941788922678e58f0f793)
-- Code/reproducibility notes: [View R HTML report](https://astauf03.github.io/spatial-analysis-portfolio/liquor_license_dashboard/licensingstuff.html)
+- 1-page memo: *set as thumbnail*
+- [ArcGIS Online dashboard](https://upenn.maps.arcgis.com/apps/dashboards/cbd683681e3941788922678e58f0f793)
+- [Code/html report](https://astauf03.github.io/spatial-analysis-portfolio/liquor_license_dashboard/licensingstuff.html)
 
 ---
 
