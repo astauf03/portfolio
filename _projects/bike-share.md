@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Forecasting Indego Bike Share Demand in Philadelphia (2024)'
-thumbnail: assets/img/projects/bike-share/temporal.png
+thumbnail: assets/img/projects/bike-share/thumbnail-temporal.png
 ---
 
 **Takeaway:** Temporal lag features drive forecast accuracy, while spatial errors reveal where demand is hardest to predict.
