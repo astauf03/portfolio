@@ -1,10 +1,12 @@
 ---
 layout: about
 title: About Alexandra Stauffer
-headshot: /assets/img/headshot.webp
+headshot: /assets/img/headshot-alex.png
 permalink: /about
 ---
 
 # Alexandra Stauffer's Portfolio
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I am a geospatial analytics graduate student with a background in anthropology, focused on understanding how people, infrastructure, and policy interact across space. My work combines spatial data science, analytics, and visualization to examine urban systems, accessibility, and inequality.
+
+Currently I am a data intern at the City of Philadelphia - Managing Director's Office, Health and Human Services and am participating in multiple consulting projects through the University of Pennsylvania. 
