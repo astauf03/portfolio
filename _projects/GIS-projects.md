@@ -8,19 +8,13 @@ This page presents selected GIS analyses completed in ArcGIS Pro, emphasizing ra
 
 ---
 
-## Raster Analysis: Painting Sample Classification
-- Analyze painting patterns and authors using the following tools: Contour, slope, aspect, hillshade, viewshed, and focal statistics.
+## Temple University Ambler Campus: Supervised Change Detection Pre and Post Tornado
 
-**Methods:**
-The table below summarizes the raster-based classification workflow used to distinguish texture, brushwork, and directional features across painting samples.
+**Overview:** 
+Delivered as a final project for *MUSA 6320: Modeling Geographic Space* in Fall 2025, this analysis employed supervised classification techniques to detect land cover changes on Temple University’s Ambler Campus before and after a tornado event in September 2021. Using high-resolution satellite imagery from 2020 and 202w, the project attempted to identify areas of significant alteration in vegetation, built structures, and impervious surfaces.
 
-| Classification Attribute | Primary Raster Metric |
-|--------------------------|----------------------|
-| Brush Direction          | Aspect               |
-| Line Thickness           | Slope                |
-| Texture Roughness        | Focal Statistics (Mean) |
-| Texture Type             | Smoothed Raster (Focal Mean) |
+**Key Outputs**
+- [ArcGIS StoryMap detailing methodology and findings](https://storymaps.arcgis.com/stories/9ab4f659a8b142da8843f0c4a5fc745e)
 
+---
 
-**Visual Evidence:**
-![Painting Classification Statistics]({{ "/assets/img/projects/GIS/paintings-summary.png" | relative_url }})
