@@ -14,7 +14,7 @@ This project forecasts hourly Indego bike-share demand across Philadelphia using
 ---
 
 **Key Outputs**
-- [**Full analytical report**](https://astauf03.github.io/musa5080---lab5/lab5-again.html)
+- [**Analytical report**](https://astauf03.github.io/musa5080---lab5/lab5-again.html)
 - **Code repository:** [GitHub repository](https://github.com/astauf03/musa5080---lab5)
 
 ---

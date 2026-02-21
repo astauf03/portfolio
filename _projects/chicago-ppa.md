@@ -14,7 +14,7 @@ This project evaluates whether 311 alley pothole complaints can improve burglary
 ---
 
 **Key Outputs**
-- **Full analytical report:** [Chicago Burglary & Pothole Analysis](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
+- **Analytical report:** [Chicago Burglary & Pothole Analysis](https://astauf03.github.io/spatial-analysis-portfolio/chicago_burglary_potholes/stauffer_alex.html)
 - **Code repository:** [GitHub repository](https://github.com/astauf03/spatial-analysis-portfolio)
 
 ---
@@ -35,11 +35,6 @@ This project evaluates whether 311 alley pothole complaints can improve burglary
 - Pothole complaints showed weak independent predictive power after controlling for socioeconomic variables (very expected)
 - KDE baselines slightly outperformed regression models in raw predictive accuracy.
 - Spatial generalization was moderate, while temporal generalization was weaker.
-
----
-
-**Visual Evidence**
-![Burglary and pothole density comparison](link)
 
 ---
 

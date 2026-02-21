@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Collaborative] Python Final Project: Passyunk Square Character Map (Philadelphia)'
+title: 'Python Final Project: Passyunk Square Character Map [Collaboration]'
 thumbnail: assets/img/projects/python-final/locator_passyunk_label_outside.png
 ---
 

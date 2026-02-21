@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Collaborative] Philadelphia Housing Prediction Model Analysis'
+title: 'Philadelphia Housing Prediction Model Analysis [Collaboration]'
 thumbnail: assets/img/projects/ppa-midterm/housing-dist.png
 ---
 
@@ -14,7 +14,9 @@ This project was completed as a team-based midterm for *MUSA 5080: Public Policy
 ---
 
 **Key Outputs**
-- **Code repository:** [GitHub repository](https://github.com/jenniferluu6/MUSA5080-Assignment3)
+- [**Analytical report:**](https://musa-5080-fall-2025.github.io/portfolio-setup-TessaVu/midterm-project/Cao_Deng_Luu_Rigsby_Stauffer_Vu_Appendix.html)
+- [**Quarto slides**](https://musa-5080-fall-2025.github.io/portfolio-setup-TessaVu/midterm-project/Cao_Deng_Luu_Rigsby_Stauffer_Vu_Slides.html#/title-slide)
+- [**Code repository:**](https://github.com/jenniferluu6/MUSA5080-Assignment3)
 
 ---
 
